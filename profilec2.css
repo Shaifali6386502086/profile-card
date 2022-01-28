@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    background-color: #ff66cc;
+    width:350px;
+    height:500px;
+    text-align: center;
+    margin: 20%;
+    border-radius: 10px;
+}
+.card-background{
+    background: linear-gradient(to right,green,royalblue);
+    height: 200px;
+    width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card-image{
+    border-radius: 50%;
+    width: 150px;
+    height: auto;
+    position: relative;
+    top: 200px;
+    border: 6px solid red;
+}
+.card-info{
+    margin-top:  40px;
+    padding: 10px;
+}
+.social-icons{
+    color: rgb(61, 3, 3);
+    font-size:24px;
+    padding:15px;
+}
